@@ -1,33 +1,11 @@
 ///////////////////////// TOP OF FILE COMMENT BLOCK ////////////////////////////
 //
 // Title:           Passer Rating Calculator
-// Course:          CS 200, Fall, 2024
 //
 // Author:          Giacomo D'Alessandro
-// Email:           gdalessandro@wisc.edu
-// Lecturer's Name: Andrew Keummel
 //
 ///////////////////////////////// CITATIONS ////////////////////////////////////
 //No help received
-///////////////////////////////// REFLECTION ///////////////////////////////////
-//
-// 1. Why did you choose arrays vs ArrayLists? In other words, what are the
-//    differences and how did you take those into account?
-//    I used the arrays for my passingStatistics because I knew that I wouldn't have to change
-//    the size of the array, and I used an ArrayList for the questions I asked because I wasn't
-//    sure if I needed to add more questions, regardless, I wanted to test using the ArrayLists
-//    for more practice.
-// 2. How did you decide which test cases to create?
-//    I wanted to test how my methods would react if one of the arrays contained null, and I also
-//    wanted to check how they would handle negative integers. I also wanted to see how my
-//    methods would round the passer Rating to 158.3 because that is the highest it can go, and I
-//    checked the methods with more common numbers for a random passer Rating to see how it would
-//    round my answer to 2 decimal points.
-// 3. What would be an additional feature you could add to this app?
-//    I think an additional feature I could add to this app is allow the user to input different
-//    players and assign them different passer Ratings and stats each, I think I could do this
-//    with multi-dimensional arrays. I also think I could add the ability to name the players and
-//    store them so you could call the players and ask for statistics, maybe compare them.
 /////////////////////////////// 80 COLUMNS WIDE ////////////////////////////////
 
 import java.util.Scanner;
