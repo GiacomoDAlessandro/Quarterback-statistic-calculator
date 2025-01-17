@@ -1,11 +1,8 @@
 ///////////////////////// TOP OF FILE COMMENT BLOCK ////////////////////////////
 //
 // Title:           Passer Rating Calculator test methods
-// Course:          CS 200, Fall, 2024
 //
 // Author:          Giacomo D'Alessandro
-// Email:           gdalessandro@wisc.edu
-// Lecturer's Name: Andrew Kuemmel
 //
 ///////////////////////////////// CITATIONS ////////////////////////////////////
 //No help received
